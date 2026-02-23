@@ -1,0 +1,7 @@
+{
+  "name": "SentientVision - AI Emotion Detector",
+  "description": "A high-performance facial emotion analysis tool using Gemini 3.0 Flash to detect and visualize complex human emotions from images with precision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
